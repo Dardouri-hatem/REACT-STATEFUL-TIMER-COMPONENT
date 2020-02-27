@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+  }
+.time{
+    padding: 50px;
+    border-radius: 21px 145px 21px 162px;
+    box-shadow: 10px 9px 17px -5px rgba(0,0,0,0.75);
+
+    border: solid lightgray;
+    width: 70%;
+    margin: 100px auto;
+    font-size: 30px;
+}
+button{
+    width: 150px;
+    height: 30px;
+    margin: 20px;
+    border: solid lightskyblue;
+    font-size: 18px;
+}
+button:hover{
+    box-shadow: -2px 9px 14px -5px rgba(0,0,0,0.75);
+}
